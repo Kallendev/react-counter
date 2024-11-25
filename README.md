@@ -1,2 +1,2 @@
-# d-app
-a complete dapp
+# Simple Counter
+useState and useEffect Hooks.
